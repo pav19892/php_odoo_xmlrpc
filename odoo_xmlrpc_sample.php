@@ -12,7 +12,7 @@ require_once ('ripcord/ripcord.php');
 
 /* GIVE YOUR CREDENTIAL BELOW */
 $url = 'http://myodoo.com:8069';
-$db = 'mint.com';
+$db = 'myodoo.com'; #DB NAME
 $username = 'admin';
 $password = 'admin';
 
